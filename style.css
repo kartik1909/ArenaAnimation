@@ -1,0 +1,222 @@
+*{
+    margin: 0%;
+    padding: 0%;
+ 
+}
+header{
+    background:url(animation.jpg) center no-repeat ;
+    background-size: cover;
+    
+}
+
+#fnt{
+    font-family: 'Orbitron';
+    font-size: 20px;
+    text-align: left;
+color: yellow;
+font-weight: 500;
+}
+.txt{
+    line-height: 35px;
+    color: white;
+}
+.section-1-p{
+    line-height: 25px;
+}
+#br{
+    border-style: none;
+}
+.main{
+    margin-top: 50px;
+}
+#form-1{
+    width: 50px;
+    height: auto;
+    border: solid 2px black;
+    border-radius: 5%;
+    background: #ffc107;
+    text-align: center;
+outline:3px solid #ffc107;
+}
+ #form {
+    width: auto;
+    height: auto;
+    border: solid 2px black;
+    border-radius: 5%;
+    background: #ffc107;
+    text-align: center;
+outline:3px solid #ffc107;
+}
+
+.form-group {
+    border-bottom: solid 2px black;
+    border-radius: 5%;
+}
+
+input {
+    background-color: #bc9b37 !important;
+}
+
+select {
+    background: transparent;
+    border: 0;
+}
+/*  */
+.sec-2{
+    background-image: url(/bg.png);
+    background-repeat: no-repeat;
+    width: auto;
+    /* height: 100vh; */
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    /* background-color: aqua; */
+ 
+}
+.indi li{
+    width: 10px;
+    height:10px;
+    border-radius: 100%;
+}
+.sec-2 h1{
+    font-size: 50px;
+font-weight: lighter;
+}
+.course{
+    color: black;
+font-size: 50px;
+font-weight: bold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sec-2-p{
+    color: white;
+}
+.sec-p{
+    font-size: 18px;
+}
+.sec-p-1{
+font-weight: 600;
+}
+
+.sec-3{
+    background-color: black;
+}
+.sec-3-p{
+    font-family: 'Overpass';
+    font-size: 30px;
+    color: white;
+}
+.card-text{
+    color: white;
+}
+/*  */
+.sec-4{
+    background-image: url(/bg2.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    /* background-color: aqua; */
+}
+
+.course2{
+/* margin: 0!important; */
+color: black;
+font-size: 6rem;
+/* word-spacing: 20px;  */
+font-weight: bold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+/* margin-left: 15%; */
+}
+.sec-4-p{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 39px;
+    color: black;
+}
+.sec-4-p-1{
+  
+    font-weight: bold;
+    font-size: 2rem;
+    color: black;
+}
+.sec-4-p-2{
+   
+    /* font-weight: bold; */
+    font-size: 18px;
+    color: black;
+    font-weight: 500;
+}
+
+.box{
+    width: 100%;
+color: rgb(255, 0, 0);
+}
+.txt2{
+    font-size: 30px;
+    color: #ffc107;
+}
+.card{
+    border: navajowhite;
+}
+li{
+list-style: disc;
+color: black;
+font-weight:600;
+}
+.b-1{
+/* line-height: 40px; */
+    border: 2px solid black;
+    border-radius: 10px 0px 0px 10px;
+}
+.b-2{
+    border: 2px solid black;
+    border-radius: 0px 10px 10px 0px;
+}
+/*  */
+
+.sec-5{
+    background-color: black;
+    color: white;
+}
+.txt3{
+font-size: 2.3rem;
+}
+.AA{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+/*  */
+.sec-7{
+    background-color: black;
+    width: auto;
+}
+.txt4{
+color: white;
+font-weight: 400;
+}
+@media screen and (min-width: 400px) {
+
+    .course2{
+        /* margin: 0!important; */
+        color: black;
+        font-size: 1px;
+        /* word-spacing: 20px;  */
+        font-weight: bold;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        /* margin-left: 15%; */
+        }
+.txt3{
+    font-size: 1.6rem;
+}
+#form-1{
+    width: 18rem;
+    height: auto;
+    border: solid 2px black;
+    border-radius: 5%;
+    background: #ffc107;
+    text-align: center;
+outline:3px solid #ffc107;
+}
+}
